@@ -1,1 +1,0 @@
-# jazzy_backend_theme
